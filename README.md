@@ -75,6 +75,6 @@ When a song ends, it automatically plays the next track in the list.
 👩‍💻 About the Creator
 
 Name: Tanaya Gughane
-Qualification: B.E. in Computer Science and Engineering (Class of 2025)
+Qualification: B.E. in Computer Science and Engineering 
 Specialization: Web Development & Frontend Engineering
 Email: tanaya16gughane@gmail.com
